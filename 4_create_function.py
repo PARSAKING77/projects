@@ -1,6 +1,2 @@
-def my_func(y):
-    
-   print(y)
-   print(13)
-
-my_func(y = "Parsa")
+mRa = 569.34643865
+print("result %1.0f" %mRa)
